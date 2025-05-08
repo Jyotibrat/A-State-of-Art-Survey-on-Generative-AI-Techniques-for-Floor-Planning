@@ -1,0 +1,8 @@
+Year,Paper,Models,Results/Performance
+2024,Perceptual Image Quality Prediction: Are Contrastive Language–Image Pretraining (CLIP) Visual Features Effective,"CLIP, Multimodal models  and Image quality prediction",73.16%
+2024,CLIP-GUIDED SOURCE-FREE OBJECT DETECTION IN AERIAL IMAGES,"CLIP, Object detection, Aerial images, Vision Transformer (ViT)",44.10%
+2023,UPDExplainer: An interpretable transformer-based framework for urban physical disorder detection using street view imagery,"CV,Transformer-Based Framework and Pre-trained Vision Model",79.89%
+2023,GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT),GPT and Data Representation,43.43%
+2023,AI art in architecture,"DALL-E, StableDiffusion and Midjourney",99.90%
+2022,Flamingo: a Visual Language Model for Few-Shot Learning,Few-Shot Learning and Multimodal Learning,86.60%
+2022,Free and open source urbanism: Software for urban planning practice,"Open source tools, GIS",52.80%

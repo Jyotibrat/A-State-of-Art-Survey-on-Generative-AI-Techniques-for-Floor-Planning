@@ -1,0 +1,5 @@
+Pillow==11.2.1
+protobuf==6.30.2
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+transformers==4.49.0

@@ -1,0 +1,67 @@
+PAPERS,LINKS
+Place Pulse 2.0 Dataset,https://github.com/aleksandrskoselevs/place-pulse-dataset
+,https://github.com/openseg-group/openseg.pytorch?v=2
+Cityscapes Dataset,https://www.cityscapes-dataset.com/
+Air Pollution in Seoul DataSet,https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul
+Air pollution in Skopje from 2008 to 2018 DataSet,https://www.kaggle.com/datasets/cokastefan/pm10-pollution-data-in-skopje-from-2008-to-2018
+Ulaanbaatar Particulate Matter Pollution 2015-2018 DataSet,https://www.kaggle.com/datasets/robertritz/ulaanbaatar-particulate-matter
+Air Quality Data in India (2015 - 2020) DataSet,https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+HuMob Task 1 Dataset,https://zenodo.org/records/13237029
+HuMob Task 2 Dataset,https://zenodo.org/records/13237029
+ECOBEE dataset,https://www.ecobee.com/en-us/
+BooksCorpus Dataset,https://huggingface.co/datasets/bookcorpus/bookcorpus
+CommonCrawl Dataset,https://commoncrawl.org/
+ImageNet Dataset,https://www.image-net.org/
+MMLU (Massive Multitask Language Understanding) Dataset,https://paperswithcode.com/dataset/mmlu
+Molecular Dynamics (MD) Simulation Dataset,https://www.mdanalysis.org/MDAnalysisData/
+GLUE Dataset,https://gluebenchmark.com/
+SQuAD Dataset,https://rajpurkar.github.io/SQuAD-explorer/
+CodeParrot Dataset,https://huggingface.co/datasets/codeparrot/github-code
+RACE Dataset,https://huggingface.co/datasets/ehovy/race
+The Pile Dataset,https://github.com/EleutherAI/the-pile
+BigQuery Public Datasets,https://cloud.google.com/bigquery/public-data
+CodeNet Dataset,https://github.com/IBM/Project_CodeNet
+CodeParrot Dataset,https://huggingface.co/datasets/codeparrot/github-code
+GitHub Java Corpus Datasets,https://groups.inf.ed.ac.uk/cup/javaGithub/
+CodeXGLUE Datasets,https://github.com/microsoft/CodeXGLUE
+APPS Datasets,https://github.com/hendrycks/apps
+CodeSearchNet Datasets,https://github.com/github/CodeSearchNet
+Multi30K Dataset,https://github.com/multi30k/dataset
+How2 Dataset,https://github.com/srvk/how2-dataset
+VaTeX Dataset,https://www.kaggle.com/datasets/khaledatef1/vatex011011
+MS-COCO Dataset,https://www.kaggle.com/datasets/mnassrib/ms-coco
+Visual Genome Dataset,https://www.kaggle.com/datasets/tarit21/visual-genome
+MSR-VTT Dataset,https://www.kaggle.com/datasets/vishnutheepb/msrvtt
+Conceptual Captions Dataset,https://ai.google.com/research/ConceptualCaptions/
+QED (Amara) Dataset,https://www.tensorflow.org/datasets/community_catalog/huggingface/qed_amara
+LAION 5B Dataset,https://laion.ai/blog/laion-5b/
+WebLI Dataset,https://paperswithcode.com/dataset/webli
+VIS30K Dataset,https://paperswithcode.com/dataset/vis30k
+MASSVIS Dataset,https://github.com/massvis/dataset
+Visually29K Dataset,https://github.com/diviz-mit/visuallydata
+UC-Merced Dataset,https://www.kaggle.com/datasets/abdulhasibuddin/uc-merced-land-use-dataset
+NWPU-RESISC45 Dataset,https://www.tensorflow.org/datasets/catalog/resisc45
+WHU-RS19 Dataset,https://www.kaggle.com/datasets/sunray2333/whurs191
+OPTIMAL-31 Dataset,https://huggingface.co/datasets/jonathan-roberts1/Optimal-31
+AID Dataset,https://www.kaggle.com/datasets/jiayuanchengala/aid-scene-classification-datasets
+RSD46-WHU Dataset,https://huggingface.co/datasets/jonathan-roberts1/RSD46-WHU
+EuroSAT Dataset,https://www.kaggle.com/datasets/apollo2506/eurosat-dataset
+PatternNet Dataset,https://huggingface.co/datasets/blanchon/PatternNet
+"Sentinel-1A SAR Data,Building Vector and Ground Truth Data",https://search.asf.alaska.edu/#/
+,https://github.com/microsoft/GlobalMLBuildingFootprints
+Librispeech datasets,https://www.openslr.org/12
+"Sony SID (See-in-the-Dark),Fuji SID",https://www.kaggle.com/datasets/moodoki/sid-sony
+,https://cchen156.github.io/SID.html
+Librispeech datasets,https://www.openslr.org/12
+SODA and TOCS dataset,https://paperswithcode.com/dataset/soda-a
+"KonIQ-10k Dataset,LIVE-FB Dataset,TID2013 Dataset",https://osf.io/hcsdy/
+DIOR-C and DIOR-Cloudy,https://www.researchgate.net/figure/Characteristics-of-our-proposed-DIOR-dataset_fig3_335599412
+"LAION-5B,Midjourney Query",https://huggingface.co/datasets/danielz01/laion-5b
+"DALLE-URBAN,Stable Diffusion",https://huggingface.co/datasets
+"NBA Player Movement,Anime Colorized ,Icon Dataset,
+Chinese Typeface Dataset,3D Terrain Sketch-to-Terrain Dataset,Text-Based Mario Brothers Level,Fashion Design Dataset",https://paperswithcode.com/datasets?q=Basketball+Players+Movement
+"CycleGAN Dataset,DeepHimmelb(l)au Dataset",https://www.tensorflow.org/datasets/catalog/cycle_gan
+"WHU Aerial Building Dataset,Satellite II Dataset,Massachusetts Building Dataset,CubiCasa5K Dataset,NYUv2 Dataset,SUN Dataset",https://github.com/satellite-image-deep-learning/datasets
+"Sketches and Conceptual Diagrams,Neural Radiance Fields (NeRF),Architectural Floor Plans and Layouts, Signed and Unsigned Distance Functions (SDF and UDF),Point Cloud Representations,2D and 3D Voxel Models,Semantic Segmentation Maps for Facades",https://www.matthewtancik.com/nerf
+"Transportation and Mobility Data,Traffic Data Prediction,Urban Water Data,Building and Infrastructure Data,Urban Planning Data",https://intellias.com/big-data-and-transportation-use-cases-urban-planning/
+"RPLAN ,Rent 3D,CubiCasa5K ,Lifull Datase,Annotated Boston Floorplans ,Volumetric Design Database",https://github.com/CubiCasa/CubiCasa5k

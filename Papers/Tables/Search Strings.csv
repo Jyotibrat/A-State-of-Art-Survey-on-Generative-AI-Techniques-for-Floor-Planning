@@ -1,0 +1,62 @@
+,Search Strings,,,
+String,Digital Repository,Link,Studies Found,Studies Selected
+"DALL-E AND (Architecture OR ""Urban Design"" OR Residential OR ""Design Architecture"")",IEEE Xplorer,https://ieeexplore.ieee.org/,4,1
+,Springer Nature,https://link.springer.com/,1838,3
+,Total,,1842,4
+,,,,
+"BERT AND (Infrastructure OR Urban OR ""Urban Regeneration"" OR ""Transportation Planning"")",ScienceDirect,https://www.sciencedirect.com/,1418,1
+,Taylor & Francis,https://www.tandfonline.com/,2135,1
+,PLOS One,https://plos.org/#journals,2092,1
+,Google Scholar,https://scholar.google.com/,226,1
+,IEEE Xplorer,https://ieeexplore.ieee.org/,80,1
+,Total,,5951,5
+,,,,
+"Vision Transformer AND (""Generative AI"" OR ""Urban Planning"" OR (""Generative AI"" AND ""Urban Planning""))",ScienceDirect,https://www.sciencedirect.com/,2112,5
+,Total,,2112,5
+,,,,
+,,,,
+"CLIP (Contrastive Language–Image Pretraining) AND (""Urban Planning"" OR Transformer)",Google Scholar,https://scholar.google.com/,25,1
+,ScienceDirect,https://www.sciencedirect.com/,653,3
+,arXiv,https://arxiv.org/,13700,1
+,Total,,14378,5
+,,,,
+"Text-to-Text Transfer Transformer AND (""Generative AI"" OR ""Urban Planning"" OR (""Generative AI"" AND ""Urban Planning""))",IEEE Xplorer,https://ieeexplore.ieee.org/,40,1
+,ScienceDirect,https://www.sciencedirect.com/,6943,1
+,arXiv,https://arxiv.org/,153,1
+,Springer Nature,https://link.springer.com/,22065,1
+,MDPI,https://www.mdpi.com/,52,1
+,Total,,29253,5
+,,,,
+"Bootstrapping Language-Image Pre-Training AND (""Generative AI"" OR ""Urban Planning"" OR (""Generative AI"" AND ""Urban Planning""))",arXiv,https://arxiv.org/,4,1
+,ScienceDirect,https://www.sciencedirect.com/,163,2
+,Springer Nature,https://link.springer.com/,205,1
+,Google Scholar,https://scholar.google.com/,1170,1
+,Total,,1542,5
+,,,,
+"Standard Transformers AND (""Generative AI"" OR ""Urban Planning"" OR ""Floor Planning"" OR (""Generative AI"" AND ""Urban Planning""))",ScienceDirect,https://www.sciencedirect.com/,1514,1
+,Google Scholar,https://scholar.google.com/,17300,4
+,Total,,18814,5
+,,,,
+"Generative Pre-trained Transformers AND (""Generative AI"" OR ""Urban Planning"" OR ""Floor Planning"" OR (""Generative AI"" AND ""Urban Planning""))",ScienceDirect,https://www.sciencedirect.com/,410,2
+,Google Scholar,https://scholar.google.com/,15400,3
+,Total,,15810,5
+,,,,
+"Stable Diffusion 3 OR ""Text-to-Image Diffusion Models"" OR ""Photorealistic Diffusion Models"" OR ""Diffusion Models Beat GANs"" OR ""Denoising Diffusion Models""",arXiv,https://arxiv.org/,263,4
+,Stability AI,https://stability.ai/,51,1
+,Total,,314,5
+,,,,
+,,,,
+"Flamingo Transformer OR ""Flamingo: a Visual Language Model for Few-Shot Learning"" OR ""Hybrid Flamingo Search Algorithm"" OR ""Vision-Language Integration in AI"" OR ""Multimodal Text Style Transfer""",ResearchGate,https://www.researchgate.net/,100,3
+,arXiv,https://arxiv.org/,2,1
+,Total,,102,4
+,,,,
+"Generative AI AND (""Architectural Design"" OR ""Building Layout"" OR ""Floorplan Generation"" OR ""Deep Generative Models"" OR ""Urban Digital Twins"" OR ""Construction Industry"" OR ""Creative Industries"" OR ""AI in Architecture"")",Frontiers Media,https://www.frontiersin.org/,142,1
+,arXiv,https://arxiv.org/,27,2
+,MDPI,https://www.mdpi.com/,38,2
+,ScienceDirect,https://www.sciencedirect.com/,1918,3
+,Sciendo,https://sciendo.com/,3117,1
+,Google Scholar,https://scholar.google.com/,17300,1
+,Total,,22542,10
+,,,,
+"Urban Planning Software AND (""Free and Open Source"" OR ""3D Visualization"" OR ""Computer-Aided Design"" OR ""Environmental Planning"" OR ""Integrated Planning and Design"")",ScienceDirect,https://www.sciencedirect.com/,2368,3
+,Total,,2368,3

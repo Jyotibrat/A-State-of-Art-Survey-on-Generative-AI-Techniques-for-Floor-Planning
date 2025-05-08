@@ -1,0 +1,63 @@
+S.no,Year,Name,Type,Publisher
+1,2023,UPDExplainer: An interpretable transformer-based framework for urban physical disorder detection using street view imagery,Journal,Elsevier
+2,2024,Fine-Grained Urban Village Extraction by Mask Transformer From High-Resolution Satellite Images in Pearl River Delta,Journal,IEEE
+3,2024,Integration of an improved transformer with physical models for the spatiotemporal simulation of urban flooding depths,Journal,Elsevier
+4,2024,Enhancing road traffic flow in sustainable cities through transformer models: Advancements and challenges,Journal,Elsevier
+5,2023,Empirical assessment of transformer-based neural network architecture in forecasting pollution trends,Journal,Springer Nature
+6,2023,GeoFormer: Predicting Human Mobility using Generative Pre-trained Transformer (GPT),Conference,Association for Computing Machinery(ACM)
+7,2023,Industrial-generative pre-trained transformer for intelligent manufacturing systems,Journal,Wiley
+8,2024,"Generative pre-trained transformers (GPT)-based automated data mining for building energy management: Advantages, limitations and the future",Journal,KeAi
+9,2024,ComfortGPT: a transformer-based architecture for predicting preferred temperature setpoints leveraging big data,Article,Elsevier
+10,2024,Generative AI model trained by molecular dynamics for rapid mechanical design of architected graphene,Article,Elsevier
+11,2023,End-to-End Transformer-Based Models in Textual-Based NLP,Review,MDPI
+12,2023,Transformer models used for text-based question answering systems,Article,Springer Nature
+13,2024,Transformers in source code generation: A comprehensive survey,Journal,Elsevier
+14,2024,"Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers",Review,IEEE
+15,2024,From Text to Transformation: A Comprehensive Review of Large Language Models' Versatility,Review,arXiv
+16,2023,A Survey of Vision-Language Pre-training from the Lens of Multimodal Machine Translation,Article,arXiv
+17,2024,Generative AI for visualization: State of the art and future directions,Article,visual informatics
+18,2024,"Few-shot remote sensing image scene classification: Recent advances, new baselines, and future trends",Journal,Elsevier
+19,2023,Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey,Article,SpringerNature
+20,2024,Generative AI Models for Different Steps in Architectural Design: A Literature Review,Review,arXiv
+21,2024,Scaling Rectified Flow Transformers for High-Resolution Image Synthesis,Conference,arXiv
+22,2020,Denoising Diffusion Probabilistic Models,Conference,arXiv
+23,2021,Diffusion Models Beat GANs on Image Synthesis,Conference,arXiv
+24,2022,Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,Conference,arXiv
+25,2023,Adding Conditional Control to Text-to-Image Diffusion Models,Conference,arXiv
+26,2022,Flamingo: a Visual Language Model for Few-Shot Learning,Conference,arXiv
+27,2021,Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation,Conference,ResearchGate
+28,2024,Feature selection on real-time application using hybrid of flamingo search algorithm and improved non-dominated sorting genetic algorithm III,Journal,ResearchGate
+29,2024,Vision-Language Integration in AI: a reality check,Article,ResearchGate
+30,2024,Detection and classification of surface defects on hot-rolled steel using vision transformers,Article,CellPress
+31,2024,Multi-scale Knowledge Transfer Vision Transformer for 3D vessel shape segmentation,Article,Elsevier
+32,2024,An illumination-guided dual attention vision transformer for low-light image enhancement,Article,Elsevier
+33,2024,Improving facade parsing with vision transformers and line integration,Article,Elsevier
+34,2024,Advanced Post-earthquake Building Damage Assessment: SAR Coherence Time Matrix with Vision Transformer,Journal,Elsevier
+35,2024,Leveraging Contrastive Language–Image Pre-Training and Bidirectional Cross-attention for Multimodal Keyword Spotting,Article,Elsevier
+36,2024,Recognizing temporary construction site objects using CLIP-based few-shot learning and multi-modal prototypes,Article,Elsevier
+37,2024,Perceptual Image Quality Prediction: Are Contrastive Language–Image Pretraining (CLIP) Visual Features Effective,Article,MDPI
+38,2024,CLIP-GUIDED SOURCE-FREE OBJECT DETECTION IN AERIAL IMAGES,Conference,arXiv
+39,2024,Fine-grained knowledge about manipulable objects is well-predicted by contrastive language image pre-training,Article,CellPress
+40,2023,AI art in architecture,Article,Springer Nature
+41,2022,DALLE-URBAN: Capturing the urban design expertise of large text to image transformers,Conference,IEEE
+42,2024,The Possibilities of Text-to-Image Tools for the Generation of Floor Plans,Conference,Graphic Horizons
+43,2022,Question answering method for infrastructure damage information retrieval from textual data using bidirectional encoder representations from transformers,Article,Elsevier
+44,2022,Urban traffic flow prediction: a dynamic temporal graph network considering missing values,Journal,Taylor and Francis
+45,2023,Public sentiment analysis on urban regeneration: A massive data study based on sentiment knowledge enhanced pre-training and latent Dirichlet allocation,Article,PLOS One
+46,2024,Exploration of Conceptual Design Generation Based on the Deep Learning Model – Discussing the Application of AI Generator to the Preliminary Architectural Design Process,Conference,SpringerNature
+47,2023,A New Method of Smart City Modeling Using Big Data Techniques,Conference,SpringerNature
+48,2022,Research on Sustainable Reuse of Urban Ruins Based on Artificial Intelligence Technology: A Study of Guangzhou,Article,MDPI
+49,2021,BERT-based Dynamic Clustering of Subway Stations Using Flow Information,Conference,IEEE
+50,2022,Free and open source urbanism: Software for urban planning practice,Article,Elsevier
+51,2005,Landscape visualizations: Applications and requirements of 3D visualization software for environmental planning,Article,Elsevier
+52,2005,Computer-aided design in urban development and management—A software for integrated planning and design by optimization,Article,Elsevier
+53,2021,Generative Adversarial Networks–Enabled Human–Artificial Intelligence Collaborative Applications for Creative and Design Industries: A Systematic Review of Current Approaches and Trends,Review,Frontiers Media
+54,2024,Generative AI for Architectural Design: A Literature Review,Review,arXiv
+55,2022,A generative design method of building layout generated by path,Article,Sciendo
+56,2022,Automated floorplan generation in architectural design: A review of methods and applications,Review,Elsevier
+57,2023,Intelligent layout generation based on deep generative models: A comprehensive survey,Article,Elsevier
+58,2024,ARTIFICIAL INTELLIGENCE IN ARCHITECTURE AND BUILT ENVIRONMENT DEVELOPMENT 2024: A CRITICAL REVIEW AND OUTLOOK,Review,We Make Spaces
+59,2024,"Generative AI Applications in Architecture, Engineering, and Construction: Trends, Implications for Practice, Education & Imperatives for Upskilling—A Review",Review,MDPI
+60,2023,Integration of convolutional and adversarial networks into building design: A review,Review,Elsevier
+61,2024,"Leveraging generative AI for urban digital twins: a scoping review on the autonomous generation of urban data, scenarios, designs, and 3D city models for smart city advancement",Review,arXiv
+62,2024,Generative AI in the Construction Industry: Opportunities & Challenges,Journal,MDPI
