@@ -53,4 +53,4 @@ These files provide a reproducible and transparent foundation for the paper’s 
 
 ---
 
-All files here are intended to make the paper more readable, insightful, and data-driven. If you are using or referencing our work, please cite our paper appropriately.
+### All files here are intended to make the paper more readable, insightful, and data-driven. If you are using or referencing our work, please [cite our paper](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning#-citation-details) appropriately.

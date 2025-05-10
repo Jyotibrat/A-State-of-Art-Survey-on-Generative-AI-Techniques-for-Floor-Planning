@@ -35,7 +35,7 @@ To convert simple textual descriptions into synthetic floor plan images using a 
 
 ```python
 "Generate an image of a floor plan of a house."
-````
+```
 
 ---
 

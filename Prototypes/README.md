@@ -29,9 +29,9 @@ Prototypes/
 
 ## 📌 Description
 
-- **[Prototype 1]()**: A basic Google Colab notebook that generates floor plan images from text prompts using Stable Diffusion v2.
-- **[Prototype 2]()**: A standalone Python script version of the text-to-image generator designed for local or backend execution.
-- **[Prototype 3]()**: A secure Google Colab notebook that uses Hugging Face token management via `google.colab.userdata` for safe image generation.
+- **[Prototype 1](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/tree/main/Prototypes/01_First%20Prototype)**: A basic Google Colab notebook that generates floor plan images from text prompts using Stable Diffusion v2.
+- **[Prototype 2](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/tree/main/Prototypes/02_Second%20Prototype)**: A standalone Python script version of the text-to-image generator designed for local or backend execution.
+- **[Prototype 3](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/tree/main/Prototypes/03_Third%20Prototype)**: A secure Google Colab notebook that uses Hugging Face token management via `google.colab.userdata` for safe image generation.
 
 ---
 

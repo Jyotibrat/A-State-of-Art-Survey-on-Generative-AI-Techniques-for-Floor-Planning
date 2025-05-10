@@ -64,4 +64,4 @@ This is the main model developed for the project, showcasing the effectiveness o
 
 ---
 
-## For any issues or questions, feel free to open an [issue](https://github.com/Jyotibrat/Floor-Planning-Generative-AI/issues) in the repository.
+## For any issues or questions, feel free to open an [issue](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/issues) in the repository.

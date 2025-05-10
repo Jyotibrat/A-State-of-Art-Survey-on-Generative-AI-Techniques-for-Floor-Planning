@@ -39,7 +39,7 @@ This subdirectory contains a **sample of the augmented dataset** generated using
   - Random noise addition
 - These augmentations were applied to enrich the diversity of the original dataset and improve model training performance.
 
-👉 See the [`Augmented Dataset/README.md`]() for more details.
+👉 See the [`Augmented Dataset/README.md`](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/blob/main/Datasets/Augmented%20Dataset/README.md) for more details.
 
 ---
 
@@ -51,7 +51,7 @@ This subdirectory **does not contain actual data** but provides licensing and ci
 - License: GNU GPL v3.0
 - Citation: Sharma et al., ICDAR 2017
 
-👉 See the [`Original Dataset/README.md`]() for citation and license details.
+👉 See the [`Original Dataset/README.md`](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/blob/main/Datasets/Original%20Dataset/README.md) for citation and license details.
 
 ---
 

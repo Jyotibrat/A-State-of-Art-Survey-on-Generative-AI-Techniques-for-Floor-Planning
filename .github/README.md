@@ -109,7 +109,7 @@ The goal of this paper is to explore how modern generative AI models, particular
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/floorplan-gen-ai.git
+   git clone https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning.git
    ```
 
 2. Run the Colab notebooks or Python scripts from the respective prototype folders.
@@ -172,9 +172,9 @@ This repository is licensed under the **Creative Commons Attribution 4.0 Interna
 
 Special thanks to:
 
-* The authors of the **ROBIN dataset**
+* The authors of the [**ROBIN dataset**](https://github.com/gesstalt/ROBIN).
 * Developers and maintainers of **Stable Diffusion**, **Hugging Face**, **PyTorch**, and the open-source ML community
 
 ---
 
-### 💬 For questions, feedback, or collaboration, feel free to open an issue or contact us!
+### 💬 For questions, feedback, or collaboration, feel free to open an issue or [contact us](mailto:bjyotibrat@gmail.com)!

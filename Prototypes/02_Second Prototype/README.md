@@ -1,6 +1,6 @@
 # 🏗️ Prototype 2 – Text-to-Floorplan (Standalone Script)
 
-This prototype builds on the first implementation and introduces a **modular, script-based approach** to generate architectural floor plans from natural language prompts using **Stable Diffusion v2**.
+This prototype builds on the first implementation and introduces a **modular, script-based approach** to generate architectural floor plans from natural language prompts using **Stable Diffusion 2.0**.
 
 This version is designed to be **standalone** and **production-ready**, capable of being run as a Python script (`.py`) instead of a notebook.
 

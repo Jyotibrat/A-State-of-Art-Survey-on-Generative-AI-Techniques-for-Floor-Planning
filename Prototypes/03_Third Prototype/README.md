@@ -41,7 +41,7 @@ To safely generate synthetic floor plan images using Stable Diffusion while prot
 
 ```python
 "Generate an image of a floor plan of a house."
-````
+```
 
 ---
 
