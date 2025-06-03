@@ -138,7 +138,7 @@ JAIN, ANKUR, BINDUPAUTRA JYOTIBRAT, ARUNIM GOGOI, RANA TALUKDAR, AVINASH KUSHWAH
 
 ---
 
-## 🔖 [License](LICENSE)
+## 🔖 [License](https://github.com/Jyotibrat/A-State-of-Art-Survey-on-Generative-AI-Techniques-for-Floor-Planning/blob/main/LICENSE)
 
 This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
